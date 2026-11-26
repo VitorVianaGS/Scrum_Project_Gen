@@ -1,8 +1,8 @@
-# Scrum Project Gen
+# 📊 Scrum Project Gen
 
 Repositório colaborativo da equipe de Análise de Dados, voltado ao desenvolvimento de soluções analíticas utilizando a metodologia Scrum.
 
-## Escopo
+## 🎯 Escopo
 
 - Compreensão do problema de negócio.
 - Levantamento de informações.
@@ -11,13 +11,13 @@ Repositório colaborativo da equipe de Análise de Dados, voltado ao desenvolvim
 - Visualização de resultados.
 - Desenvolvimento de propostas.
 
-## Ferramentas e tecnologias
+## 🛠️ Ferramentas e tecnologias
 
 - GitHub
 - GitHub Projects
 - Jupyter Notebook
 
-## Integrantes
+## 👥 Integrantes
 
 - Vitor
 - Beatris
